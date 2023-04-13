@@ -52,9 +52,14 @@ body {
     width: 100%;
     height: 50px;
     display: flex;
+    justify-content:space-between;
     align-items: center;
     cursor: pointer;
     background-color: #B9255E;   
+}
+.barraMenu img {
+    width: 1em;
+    margin-right: 20px;
 }
 
 .barraMenu a {
