@@ -44,7 +44,6 @@ body {
     font-size: 13px;
     margin-left: 20px;
     padding-right:  45%;
-    border: 1px solid black;
 }
 .listaMenuScroll li:hover {
     background-color: #444;
@@ -116,8 +115,7 @@ main {
     justify-content: center;
     align-items: center;
     background-color: white;
-    position: relative;
-    
+    position: relative;    
 }
 .tag24hs {
     position: absolute;
@@ -146,7 +144,6 @@ main {
     transition: .8s;
     padding: 5px;
     font-weight:400;
-
 }
 .listaMenuSecundario li a:hover {
     background-color:#FA40AC;
@@ -176,8 +173,7 @@ main {
     line-height: 15px;
 }
 .infoIzq a {
-    color:#FA40AC;
-    
+    color:#FA40AC;    
 }
 .infoDer {
     text-align: end;
@@ -238,8 +234,7 @@ footer img {
     cursor: pointer;
     display: flex;
     width: 120px;
-    height: 70px;
-    
+    height: 70px;    
 }
 .ico {
     width: 85px;
@@ -255,8 +250,7 @@ footer img {
     padding: 0px 10px;
     font-size: 13px;
     box-shadow: 1px 1px 10px 1px rgb(65, 61, 61);
-    font-family: 'Roboto', sans-serif; 
-    
+    font-family: 'Roboto', sans-serif;     
 }
 .imgLogo {
     width: 30%;
@@ -299,8 +293,7 @@ footer img {
     .imgLogo {
         width: 60%;
          height: 70%;
-         margin-left: 50px;
-         
+         margin-left: 50px;         
     }
     .qr p {
         font-size: 10px;
